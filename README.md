@@ -94,6 +94,6 @@
 
 ## 📊 GitHub Stats:
 
-![Enrico Maria Di Mauro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edimauro5&show_icons=true&theme=onedark)
+![Enrico Maria Di Mauro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emdm00&show_icons=true&theme=onedark)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=edimauro5&icon=0&color=4&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=emdm00&icon=0&color=4&pretty=true)](https://visitcount.itsvg.in)
